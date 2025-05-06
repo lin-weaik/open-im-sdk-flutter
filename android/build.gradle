@@ -51,6 +51,6 @@ android {
 
 dependencies {
     // implementation 'io.openim:core-sdk:3.8.3-patch3@aar'
-    // implementation project(':core-sdk')
+    implementation project(':core-sdk')
     // compileOnly files('libs/open_im_sdk.aar')
 }
